@@ -174,7 +174,7 @@ Vivendo entre códigos, redes e desafios de cibersegurança, sigo evoluindo nas 
   <a href="https://signal.org/pt_BR/download/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
   </a>
-  <a href="https://tryhackme.com/r/p/kap6ahakfin7 " target="_blank">
+  <a href="https://tryhackme.com/p/RainierVitorr " target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://www.patreon.com/home" target="_blank">
